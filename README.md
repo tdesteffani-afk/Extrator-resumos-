@@ -1,6 +1,6 @@
-# Extrair Resumos
+# Extrair Resumos, Títulos e Palavras chave
 
-Aplicativo Windows (executável) para separar, extrair metadados e organizá-los num único arquivo .txt pronto para usar em IraMuTeQ. 
+Aplicativo Windows (executável) para separar, extrair metadados e organizá-los automaticamente num único arquivo .txt pronto para usar em IraMuTeQ. 
 
 ## Download (Windows)
 Baixe a versão mais recente em **Releases**:
