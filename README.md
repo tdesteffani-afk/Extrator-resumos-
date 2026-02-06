@@ -13,10 +13,10 @@ Baixe a versão mais recente em **Releases**:
 5. O programa gera o arquivo de saída na pasta em que estão os pdfs
 
 ## O que o programa faz
-- [bullet 1: ex. extrai texto/metadata de PDFs]
-- [bullet 2: limpa/normaliza]
-- [bullet 3: gera `.txt` UTF-8 com delimitadores `**** *arquivo`]
-- [bullet 4: logs/relatório, se existir]
+- [extrai texto/metadata de PDFs]
+- [limpa/normaliza]
+- [gera `.txt` UTF-8 com delimitadores `**** *arquivo`]
+- [logs/relatório, se existir]
 
 
 ## Problemas comuns
