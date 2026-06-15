@@ -1,4 +1,4 @@
-# Extrair Resumos, Títulos e Palavras chave
+# Extrair Resumos, Títulos e Palavras chave (TexTum)
 
 Aplicativo Windows (executável) para separar, extrair metadados e organizá-los automaticamente num único arquivo .txt pronto para usar em IraMuTeQ. 
 
